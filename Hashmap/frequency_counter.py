@@ -7,3 +7,4 @@ for i in str:
         map[i] = 1
 #search in map and return the count
 print(map['s'])
+print (map)
